@@ -5,7 +5,7 @@
 This repository contains all the information you need to successfully install and begin using  **Datax** project.
 
 Links:
-* [Github repository](https://github.com/OWASP/CheatSheetSeries)
+* [Github repository](https://github.com/marioJoker/Datax)
 
 ## Installation
 For **Windows OS** users, the source code has already been compiled. All you have to do is git clone the repository
